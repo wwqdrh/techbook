@@ -2,89 +2,89 @@
     "title": "操作系统基础知识",
     "cate": [
         {
-            "label": "进程",
+            "title": "进程",
             "children": [
                 {
-                    "label": "进程与线程"
+                    "title": "进程与线程"
                 },
                 {
-                    "label": "进程数据结构"
+                    "title": "进程数据结构"
                 },
                 {
-                    "label": "进程的生命周期"
+                    "title": "进程的生命周期"
                 },
                 {
-                    "label": "进程调度"
+                    "title": "进程调度"
                 }
             ]
         },
         {
-            "label": "内存",
+            "title": "内存",
             "children": [
                 {
-                    "label": "用户态以及内核空间"
+                    "title": "用户态以及内核空间"
                 },
                 {
-                    "label": "进程空间划分"
+                    "title": "进程空间划分"
                 },
                 {
-                    "label": "内存管理"
+                    "title": "内存管理"
                 }
             ]
         },
         {
-            "label": "通信",
+            "title": "通信",
             "children": [
                 {
-                    "label": "管道"
+                    "title": "管道"
                 },
                 {
-                    "label": "信号"
+                    "title": "信号"
                 },
                 {
-                    "label": "ipc"
+                    "title": "ipc"
                 }
             ]
         },
         {
-            "label": "文件系统",
+            "title": "文件系统",
             "children": [
                 {
-                    "label": "文件系统"
+                    "title": "文件系统"
                 },
                 {
-                    "label": "虚拟文件系统"
+                    "title": "虚拟文件系统"
                 }
             ]
         },
         {
-            "label": "设备",
+            "title": "设备",
             "children": [
                 {
-                    "label": "块设备"
+                    "title": "块设备"
                 },
                 {
-                    "label": "字符设备"
+                    "title": "字符设备"
                 },
                 {
-                    "label": "BIOS"
+                    "title": "BIOS"
                 }
             ]
         },
         {
-            "label": "虚拟化",
+            "title": "虚拟化",
             "children": [
                 {
-                    "label": "虚拟化原理"
+                    "title": "虚拟化原理"
                 },
                 {
-                    "label": "存储虚拟化"
+                    "title": "存储虚拟化"
                 },
                 {
-                    "label": "网络虚拟化"
+                    "title": "网络虚拟化"
                 },
                 {
-                    "label": "cpu虚拟化"
+                    "title": "cpu虚拟化"
                 }
             ]
         }
