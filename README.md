@@ -3,4 +3,8 @@
 
 ## 操作系统
 
-[https://wwqdrh.github.io/courses/online?title=操作系统](https://wwqdrh.github.io/courses/online?title=操作系统)
+[在线阅读](https://wwqdrh.github.io/courses/online?title=操作系统)
+
+## 算法
+
+[在线阅读](https://wwqdrh.github.io/courses/online?title=算法与数据结构)
