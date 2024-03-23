@@ -1,0 +1,41 @@
+{
+    "title": "c++",
+    "cate": [
+        {
+            "title": "数据类型",
+            "children": []
+        },
+        {
+            "title": "面向对象",
+            "children": [
+                {
+                    "title": "虚函数"
+                },
+                {
+                    "title": "多继承"
+                },
+                {
+                    "title": "重载"
+                },
+                {
+                    "title": "模板"
+                }
+            ]
+        },
+        {
+            "title": "并发编程",
+            "children": []
+        },
+        {
+            "title": "资源管理",
+            "children": [
+                {
+                    "title": "对象管理"
+                },
+                {
+                    "title": "内存模型"
+                }
+            ]
+        }
+    ]
+}
