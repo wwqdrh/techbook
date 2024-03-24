@@ -20,7 +20,25 @@
         },
         {
             "title": "链表",
-            "children": []
+            "children": [
+                {
+                    "title": "定义"
+                },
+                {
+                    "title": "修改"
+                },
+                {
+                    "title": "查找"
+                }
+            ]
+        },
+        {
+            "title": "堆",
+            "children": [
+                {
+                    "title": "定义"
+                }
+            ]
         },
         {
             "title": "队列",
