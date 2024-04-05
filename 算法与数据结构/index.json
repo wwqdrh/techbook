@@ -33,29 +33,30 @@
             ]
         },
         {
+            "title": "栈和队列",
+            "children": [
+                {
+                    "title": "字符串"
+                },
+                {
+                    "title": "单调栈"
+                },
+                {
+                    "title": "单调队列"
+                },
+                {
+                    "title": "复合结构"
+                }
+            ]
+        },
+        {
             "title": "堆",
             "children": [
                 {
                     "title": "定义"
-                }
-            ]
-        },
-        {
-            "title": "队列",
-            "children": [
-                {
-                    "title": "单调队列"
-                }
-            ]
-        },
-        {
-            "title": "栈",
-            "children": [
-                {
-                    "title": "字符串匹配"
                 },
                 {
-                    "title": "单调栈"
+                    "title": "topk问题"
                 }
             ]
         },
@@ -67,6 +68,9 @@
                 },
                 {
                     "title": "二叉树遍历"
+                },
+                {
+                    "title": "二叉树变换"
                 }
             ]
         },
@@ -74,10 +78,13 @@
             "title": "图",
             "children": [
                 {
+                    "title": "定义"
+                },
+                {
                     "title": "拓扑排序"
                 },
                 {
-                    "title": "二分图判定"
+                    "title": "二分图"
                 },
                 {
                     "title": "最小生成树"
