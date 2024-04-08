@@ -5,6 +5,9 @@
             "title": "数组",
             "children": [
                 {
+                    "title": "排序"
+                },
+                {
                     "title": "前缀和"
                 },
                 {
@@ -36,6 +39,9 @@
             "title": "栈和队列",
             "children": [
                 {
+                    "title": "定义"
+                },
+                {
                     "title": "字符串"
                 },
                 {
@@ -63,6 +69,9 @@
         {
             "title": "树",
             "children": [
+                {
+                    "title": "定义"
+                },
                 {
                     "title": "二叉树构造"
                 },
